@@ -17,6 +17,7 @@ header{
   
     text-align: center;
     background-color: yellow;
+    border-radius: 10px;
     
 }
 
@@ -24,11 +25,19 @@ nav {
 
     background-color: white;
     text-align: center;
+   padding: 50;
+   margin: 0;
+    border-radius: 10px;
+    
+    
     
 
 
 
 }
+
+
+
 
 .login-box{
 
@@ -40,7 +49,7 @@ background-color:yellow;
 border-radius: 10px;
 color: black;
 top: 50%;
-left: 60%;
+left: 12%;
 position: absolute;
 transform: translate(-50%, -50%)
 
@@ -52,7 +61,7 @@ transform: translate(-50%, -50%)
 .login-box input{
 
 width: 100;
-margin-bottom: 20x;
+margin-bottom: 5%;
 background-color:white;
 
 
