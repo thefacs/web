@@ -1,6 +1,10 @@
 body {
+background-color: rgb(3, 44, 106);
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+height: 50vh;
 
-background-color: rgb(95, 29, 29);
 
 
 }
@@ -8,22 +12,72 @@ background-color: rgb(95, 29, 29);
 
 header{
 
-    background-color:   rgb(235, 186, 51) ;
-    border: 1px solid red
+    padding: 20 ;
+    font-style: initial;
+  
+    text-align: center;
+    background-color: yellow;
     
-
-
-
-
-    
-
 }
 
 nav {
 
-background-color: white;
-text-align: center;
+    background-color: white;
+    text-align: center;
+    
 
 
 
 }
+
+.login-box{
+
+
+text-align: center;
+width: 320px;
+height: 420px;
+background-color:yellow;
+border-radius: 10px;
+color: black;
+top: 50%;
+left: 60%;
+position: absolute;
+transform: translate(-50%, -50%)
+
+
+
+
+}
+
+.login-box input{
+
+width: 100;
+margin-bottom: 20x;
+background-color:white;
+
+
+
+}
+
+.login-box label{
+
+margin: 0;
+padding: 0;
+font-weight: bold;
+display: block;
+
+
+}
+
+.login-box h1{
+
+padding: 0;
+margin: 0;
+
+
+
+}
+
+
+
+
