@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://www.revistaneo.com/sites/default/files/2020-10/fondos-padres.jpg");
+    margin: 0;
+    padding: 0px;
+    font-family: sans-serif;
+    height: 50vh;
+
+}
+
+
+.creareleccion{
+
+
+    text-align: center; 
+    width: 420px;
+    height: 420px;
+    background-color:black;
+    border-radius: 10px;
+    color: gold ;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    border-color: gold;
+    border-style: solid;
+    
+
+}
+
+.creareleccion input{
+
+margin: 0;
+padding: 10px;
+
+
+}
+
+.creareleccion label{
+
+
+    display: block;
+    padding: 10px;
+    margin: 0;
+
+}
+
+.sesion{
+
+  
+  margin: 0 auto; /* Esto centra el botón horizontalmente */
+  background-color: black;
+  color:gold;
+  border: solid;
+
+ 
+  padding:10px;
+  
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  
+    
+
+}
