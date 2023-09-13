@@ -1,39 +1,36 @@
 body{
-
-    background-image: url("https://www.revistaneo.com/sites/default/files/2020-10/fondos-padres.jpg");
-
-
+    background-image: url("https://www.revistaneo.com/sites/default/files/2020-10/fondos-padres.jpg")
 }
 
 header{
+    color: gold;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center  ;
+    height: 50px;
+}
 
-color: gold;
-border-radius: 10px;
-background-color: black;
-text-align: center  ;
-height: 50px;
-
-
-
-
+nav{
+    background-color:gold;
+    text-align: center;
+    padding: 10px;
+    margin: 0;   
+    border-radius: 10px;
 }
 
 .eleccionesdevotar{
-
-
-
-color: gold;
-display: block;
-border-collapse: collapse;
+    color: gold;
+    display: block;
+    border-collapse: collapse;
 }
-td, th /* Poner borde en td y th */
+td, th 
 {
-border: 1px solid GOLD;
+    border: 1px solid GOLD;
 
-padding: 10px;
+    padding: 10px;
     margin: 0;
     height: 100px;
-    top: 50%;
+    top: 70%;
     left: 70%;
     width: 10%;
     background-color:black;
