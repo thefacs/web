@@ -18,6 +18,14 @@ header{
 
 }
 
+nav {
+    background-color:gold;
+    text-align: center;
+    padding: 10px;
+    margin: 0;   
+    border-radius: 10px;
+}
+
 
 
 .registrar1{

@@ -35,28 +35,13 @@ height: 50vh;
         
 
 nav {
-
-    background-color:white;
+    background-color:gold;
     text-align: center;
     padding: 10px;
     margin: 0;   
     border-radius: 10px;
- 
-
-
-
-   
 }
 
-nav:hover{
-
-color: gold;
-transition: color 1s ease;
-
-
-
-
-}
 
 .sesion{
 
