@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://www.revistaneo.com/sites/default/files/2020-10/fondos-padres.jpg");
+    margin: 0;
+    padding: 0px;
+    font-family: sans-serif;
+    height: 50vh;
+
+}
+
+header{
+
+    color: gold;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center  ;
+    height: 50px; 
+    font-size: 16px;
+
+}
+
+nav {
+    background-color:gold;
+    text-align: center;
+    padding: 10px;
+    margin: 0;   
+    border-radius: 10px;
+}
+
+.evento3{
+
+    text-align: center; 
+    width: 420px;
+    height: 380px;
+    background-color:black;
+    border-radius: 10px;
+    color: gold ;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    border-color: gold;
+    border-style: solid;
+    }
+
+
+    .sesion{
+
+        padding: 10px;
+        margin: 0;
+        
+        width: 150px;
+        cursor: pointer;
+        background-color: black;
+        color: gold;
+        font-size: 16px;
+        
+        }
+
+
+    .evento3 label{
+        display: block;
+        padding: 10px;
+        margin: 0;
+       
+
+    }
